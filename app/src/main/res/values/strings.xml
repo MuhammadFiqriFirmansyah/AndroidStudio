@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sweet Delights Bakery</string>
+    <string name="menu_title">Our Menu</string>
+    <string name="currency">Rp</string>
+</resources>
